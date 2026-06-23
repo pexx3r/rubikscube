@@ -1,0 +1,12 @@
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30159 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+ColorScanner.cpp
+D:\Rcube\vcpkg\installed\x64-windows\include\opencv4\opencv2/core/cvdef.h(185): fatal error C1083: Cannot open include file: 'limits': No such file or directory
+scan_cube.cpp
+D:\Rcube\vcpkg\installed\x64-windows\include\opencv4\opencv2/core/cvdef.h(185): fatal error C1083: Cannot open include file: 'limits': No such file or directory
+MoveTranslator.cpp
+D:\Rcube\rubikscube\MoveTranslator\include\MoveTranslator.h(2): fatal error C1083: Cannot open include file: 'vector': No such file or directory
+OpenCVRenderer.cpp
+D:\Rcube\rubikscube\MoveTranslator\include\MoveTranslator.h(2): fatal error C1083: Cannot open include file: 'vector': No such file or directory
+Generating Code...

@@ -1,0 +1,4 @@
+D:/Rcube/rubikscube/build/MoveTranslator_build/CMakeFiles/MoveTranslator.dir
+D:/Rcube/rubikscube/build/MoveTranslator_build/CMakeFiles/instructions_cli.dir
+D:/Rcube/rubikscube/build/MoveTranslator_build/CMakeFiles/edit_cache.dir
+D:/Rcube/rubikscube/build/MoveTranslator_build/CMakeFiles/rebuild_cache.dir
